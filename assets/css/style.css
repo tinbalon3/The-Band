@@ -136,7 +136,7 @@ font-size: 14px;
 #slider{
 margin-top: 46px;
 padding-top: 50%;
-background-image: url('/w3_band/assets/img/slider/slider1.jpg');
+background-image: url('../img/slider/slider1.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 background-position: top center;
