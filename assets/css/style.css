@@ -426,7 +426,7 @@ border: none;
     font-size: 15px;
     outline: none;
     border:1px solid #000;
-
+    -webkit-appearance: none;
 }
 .contact-submit:hover{
     color: #000;
